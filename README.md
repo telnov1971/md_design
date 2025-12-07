@@ -114,6 +114,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zhihus"><img src="https://avatars.githubusercontent.com/u/110194430?v=4?s=100" width="100px;" alt="zhihus"/><br /><sub><b>zhihus</b></sub></a><br /><a href="#bug-zhihus" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pavligd"><img src="https://avatars.githubusercontent.com/u/32685029?v=4?s=100" width="100px;" alt="pavligd"/><br /><sub><b>pavligd</b></sub></a><br /><a href="#bug-pavligd" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nvernaya78-max"><img src="https://avatars.githubusercontent.com/u/240962285?v=4?s=100" width="100px;" alt="nvernaya78-max"/><br /><sub><b>nvernaya78-max</b></sub></a><br /><a href="#bug-nvernaya78-max" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
