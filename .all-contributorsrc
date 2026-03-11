@@ -134,6 +134,42 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "zhihus",
+      "name": "zhihus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110194430?v=4",
+      "profile": "https://github.com/zhihus",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "pavligd",
+      "name": "pavligd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32685029?v=4",
+      "profile": "https://github.com/pavligd",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "nvernaya78-max",
+      "name": "nvernaya78-max",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240962285?v=4",
+      "profile": "https://github.com/nvernaya78-max",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "RiAnBankir",
+      "name": "Bankir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182816692?v=4",
+      "profile": "https://github.com/RiAnBankir",
+      "contributions": [
+        "ideas"
+      ]
     }
   ]
 }

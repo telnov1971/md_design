@@ -111,6 +111,12 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aspi1C"><img src="https://avatars.githubusercontent.com/u/220066038?v=4?s=100" width="100px;" alt="Aspi1C"/><br /><sub><b>Aspi1C</b></sub></a><br /><a href="#bug-Aspi1C" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://infostart.ru"><img src="https://avatars.githubusercontent.com/u/2920817?v=4?s=100" width="100px;" alt="Artur Ayukhanov"/><br /><sub><b>Artur Ayukhanov</b></sub></a><br /><a href="#ideas-artbear" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zhihus"><img src="https://avatars.githubusercontent.com/u/110194430?v=4?s=100" width="100px;" alt="zhihus"/><br /><sub><b>zhihus</b></sub></a><br /><a href="#bug-zhihus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pavligd"><img src="https://avatars.githubusercontent.com/u/32685029?v=4?s=100" width="100px;" alt="pavligd"/><br /><sub><b>pavligd</b></sub></a><br /><a href="#bug-pavligd" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nvernaya78-max"><img src="https://avatars.githubusercontent.com/u/240962285?v=4?s=100" width="100px;" alt="nvernaya78-max"/><br /><sub><b>nvernaya78-max</b></sub></a><br /><a href="#bug-nvernaya78-max" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RiAnBankir"><img src="https://avatars.githubusercontent.com/u/182816692?v=4?s=100" width="100px;" alt="Bankir"/><br /><sub><b>Bankir</b></sub></a><br /><a href="#ideas-RiAnBankir" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
   </tbody>
 </table>
 
